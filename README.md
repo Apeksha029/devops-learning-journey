@@ -1,2 +1,19 @@
 # devops-learning-journey
-My journey of learning Linux, Cloud Computing, DevOps, DevSecOps and Platform Engineering from scratch.
+
+Hi, I'm Apeksha.
+
+This repository documents my journey learning:
+
+- Linux
+- Networking
+- AWS
+- Docker
+- Jenkins
+- Terraform
+- Ansible
+- Kubernetes
+- DevSecOps
+
+## Progress
+
+- Day 01 ✅
