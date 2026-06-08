@@ -44,8 +44,16 @@
 
     Example:
     chmod +x deploy.sh
+    read - 4
+    write - 2
+    execute - 1
 
-11. chmod +x
+    chmod 755 deploy.sh
+    7 = rwx = 4+2+1
+    5 = r-x = 4+0+1
+    5 = r-x = 4+0+1
+
+12. chmod +x
     - Adds execute permission.
 
     Before:
@@ -54,7 +62,7 @@
     After:
     rwx
 
-12. Why Permissions Matter
+13. Why Permissions Matter
     - Protect files from unauthorized access.
     - Control who can read, modify, or execute files.
     - Important for server security.
